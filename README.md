@@ -1,2 +1,0 @@
-# DianpingSpiderFuns
-python
